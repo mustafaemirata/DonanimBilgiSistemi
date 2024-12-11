@@ -1,5 +1,5 @@
 # DonanimBilgiSistemi
-![Resim Açıklaması](DonanımBilgileri/images/resim.png)
+![AAAA](DonanımBilgileri/images/resim.png)
 
 
 
