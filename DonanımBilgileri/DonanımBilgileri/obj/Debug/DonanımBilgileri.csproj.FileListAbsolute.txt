@@ -1,0 +1,13 @@
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\bin\Debug\DonanımBilgileri.exe.config
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\bin\Debug\DonanımBilgileri.exe
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\bin\Debug\DonanımBilgileri.pdb
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\obj\Debug\DonanımBilgileri.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\obj\Debug\DonanımBilgileri.Form1.resources
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\obj\Debug\DonanımBilgileri.Properties.Resources.resources
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\obj\Debug\DonanımBilgileri.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\obj\Debug\DonanımBilgileri.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\obj\Debug\DonanımBilgileri.exe
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\obj\Debug\DonanımBilgileri.pdb
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\bin\Debug\System.CodeDom.dll
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\bin\Debug\System.CodeDom.xml
+C:\Users\Emir\source\repos\DonanımBilgileri\DonanımBilgileri\obj\Debug\DonanımB.DE612AE1.Up2Date
