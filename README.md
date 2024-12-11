@@ -1,4 +1,5 @@
 # DonanimBilgiSistemi
-![Resim Açıklaması](images/resim.png)
+![Resim Açıklaması](DonanimBilgileri/images/resim.png)
+
 
 
